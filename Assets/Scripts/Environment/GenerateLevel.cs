@@ -7,7 +7,7 @@ using Random = UnityEngine.Random;
 public class GenerateLevel : MonoBehaviour
 {
     public GameObject[] section;
-    public int zPos = 50;
+    public int zPos = 50
     public bool creatingSection = false;
     public int secNum;
 
